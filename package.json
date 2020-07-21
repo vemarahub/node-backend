@@ -1,0 +1,9 @@
+{
+  "name": "nodejsapp",
+  "description": "node js service api for videos",
+  "author": "Vemara Hub",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9"
+  }
+}
