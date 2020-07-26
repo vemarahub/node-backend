@@ -2,7 +2,7 @@ var express=require("express");
 var app=express();
 
 var MongoClient = require('mongodb').MongoClient;
-const url = 'mongodb://localhost:27017';
+const url = 'mongodb+srv://vemara:Vemara@123@cluster0-rc1yn.mongodb.net';
 const dbName = 'vemaradb';
 var arr=[];
 var i=0;
